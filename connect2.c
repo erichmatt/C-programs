@@ -24,9 +24,13 @@ int main(){
                                                 		return 0;
 								}
 
-		}else{
+		}if(i == 2){
 			printf("  |  \n");
 			printf("-----\n");
 			printf("  |O \n");
 			}
+        else{
+            printf("follow the directions next time!");
+            }
+
 }
